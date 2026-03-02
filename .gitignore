@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.class
+
+# Executables
+urgencia
+urgencias
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# System files
+.DS_Store
