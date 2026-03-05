@@ -82,4 +82,5 @@ Run the program:
 ## Author
 
 Gonçalo Costa  
+Dinis Freire
 Computer Engineering Student – University of Coimbra
